@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1492458521 source:c:\users\mateusz\desktop\npc_framework\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<cstdio>
+	<vector>
+	<conio.h>
+

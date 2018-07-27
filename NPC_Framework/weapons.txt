@@ -1,0 +1,150 @@
+ITMW_1H_BLESSED _02
+-  B³ogos³awione ostrze magiczne
+ITMW_STREITKOLBEN
+-  Bu³awa
+ITMW_MORGENSTERN
+-  Bu³awa na ³añcuchu
+ITMW_2H_SPECIAL_02
+-  Ciê¿ki magiczny miecz dwurêczny
+ITMW_ZWEIHAENDER4
+-  Ciê¿ki miecz dwurêczny
+ITMW_KRIEGSHAMMER2
+-  Ciê¿ki m³ot wojenny
+ITMW_2H_ORCAXE_03
+-  Ciê¿ki orkowy topór
+ITMW_SCHWERT2
+-  D³ugi miecz
+ITMW_SCHWERT4
+-  Dobry d³ugi miecz
+ITMW_SHORTSWORD5
+-  Dobry krótki miecz
+ITMW_SCHWERT1
+-  Dobry miecz
+ITMW_SCHWERT5
+-  Dobry miecz pó³torarêczny
+ITMW_2H_SPECIAL_04
+-  Du¿e magiczne ostrze na smoki
+ITMW_1H_ BLESSED_03
+-  Gniew Innosa
+ITMW_HELLEBARDE
+-  Halabarda
+ITMW_INQUISITOR
+-  Inkwizytor
+ITMW_2H_ORCSWORD_01
+-  Jaszczurzy miecz
+ITMW_FOL TERAXT
+-  Katowski topór
+ITMW_SHORTSWORD2
+-  Kiepski krótki miecz
+ITMW_1H_SLD_SWORD
+-  Kiepski miecz
+ITMW_2H_SLD_SWORD
+-  Kiepski miecz dwurêczny
+ITMW_SCHWERT3
+-  Kiepski miecz pó³torarêczny
+ITMW_SHORTSWORD3
+-  Krótki miecz
+ITMW_SHORTSWORD1
+-  Krótki miecz stra¿y
+ITMW_1H_MIL_SWORD
+-  Kiepski szeroki miecz
+ITMW_1H_SLD_AXE
+-  Kiepski tasak
+ITMW_2H_SLD_AXE
+-  Kiepski topór bojowy
+ITMW_1H_BLESSED_01
+-  Kiepskie ostrze magiczne
+ITMW_KRUMMSCHWERT
+-  Kordelas
+ItMw_Addon_PIR1hSword
+-  Kordelas piracki
+ItMW_Addon_Stab01
+-  Kostur maga
+ItMW_Addon_Stab04
+-  Kostur Ulthara
+ITMW_ZWEIHAENDER1
+-  Lekki miecz dwurêczny
+ITMW_2H_ORCAXE_01
+-  Lekki orkowy topór
+ItMW_Addon_Hacker_1h_01
+-  Maczeta
+ItMW_Addon_Stab02
+-  Magiczna ró¿d¿ka
+ITMW_1H_SPECIAL_02
+-  Magiczny miecz pó³torarêczny
+ItMw_Addon_PIR2hAxe
+-  Mia¿d¿ydeska
+ITMW_1H_VLK_SWORD
+-  Miecz
+ItMw_Addon_Betty
+-  Miecz Betty
+ITMW_ZWEIHAENDER2
+-  Miecz dwurêczny
+ITMW_2H_PAL_SWORD
+-  Miecz dwurêczny paladyna
+ITMW_ELBASTARDO
+-  Miecz El Bastardo
+ITMW_MEISTERDEGEN
+-  Miecz mistrzowski
+ITMW_1H_PAL_SWORD
+-  Miecz paladyna
+ItMw_Addon_PIR2hSword
+-  Miecz pok³adowy
+ITMW_RUNENSCHWERT
+-  Miecz runiczny
+ITMW_KRIEGSHAMMER1
+-  M³ot wojenny
+ITMW_1H_SWORD_L_03
+-  Nó¿
+ItMW_Addon_Knife01
+-  Nó¿ na wilki
+ITMW_2H_ORCAXE_04
+-  Ogromny orkowy topór
+ITMW_DOPPELAXT
+-  Ogromny topór
+ITMW_2H_ORCSWORD_02
+-  Orkowy miecz wojenny
+ITMW_STEINBRECHER
+-  Oskard
+ITMW_STURMBRINGER
+-  Ostrze Burzy
+ItMw_Addon_BanditTrader
+-  Pa³asz bandytów
+ITMW_KRIEGSKEULE
+-  Pa³ka bojowa
+ItMw_RangerStaff_Addon
+-  Pika bojowa Wodnego Krêgu
+ITMW_RUBINKLINGE
+-  Rubinowe ostrze
+ITWM_1H_COMMON_01
+-  Samodzielnie wykuty miecz
+ItMW_Addon_Keule_2h_01
+-  S³uga burzy
+ItMW_Addon_Keule_1h_01
+-  S³uga wichru
+ITMW_2H_ORCAXE_02
+-  Œredni orkowy topór
+ItMW_Addon_Hacker_1h_02
+-  Stara maczeta
+ItMW_Addon_Hacker_2h_02
+-  Stara wielka maczeta
+ItMW_Addon_Stab05
+-  Tajfun
+ITMW_DOPPELAXT
+-  Topór obosieczny
+ItMw_Addon_PIR1hAxe
+-  Topór pok³adowy
+ITMW_SCHLACHTAXT
+-  Topór wojenny
+ItMW_Addon_Hacker_2h_01
+-  Wielka maczeta
+ITMW_BARTAXT
+-  Wielki topór
+ITMW_SHORTSWORD4
+-  Wilczy kie³
+ItMW_Addon_Stab03
+-  Wodny kostur
+ITMW_2H_SWORD_M_01
+-  Zardzewia³y miecz dwurêczny
+ItMw_FrancisDagger_Mis
+-  Z³oty sztylet
