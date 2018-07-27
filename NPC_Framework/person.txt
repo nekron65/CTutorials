@@ -1,0 +1,50 @@
+instance NONE_0_npc(Npc_Default)
+{
+// ------ NSC ------
+name   	= "npc";
+guild  	= GIL_NONE;
+id     	= 0;
+voice  	= 0;
+flags  	= 0;
+npctype	= NPCTYPE_AMBIENT;
+
+// ------ Attribute ------
+attribute[ATR_STRENGTH]     	= 20;
+attribute[ATR_DEXTERITY]    	= 20;
+attribute[ATR_MANA_MAX]     	= 25;
+attribute[ATR_MANA]         	= 25;
+attribute[ATR_HITPOINTS_MAX]	= 50;
+attribute[ATR_HITPOINTS]    	= 50;
+
+// ------ Kampf-Taktik ------
+fight_tactic	= FAI_HUMAN_NORMAL;
+
+// ------ Equippte Waffen ------
+EquipItem (self, lulz);
+
+// ------ Inventory ------
+
+// ------ visuals ------
+B_SetNpcVisual         (self, MALE, "Hum_Head_Pony, Face_N_NormalBart05, BodyTex_N, );
+Mdl_SetModelFatness    (self, 1);
+Mdl_ApplyOverlayMds    (self, "Humans_Normal.mds");
+
+// ------ NSC-relevante Talente vergeben ------
+
+// ------ Kampf-Talente ------
+B_SetFightSkills (self, 30);
+
+// guter Bogenkämpfer
+B_AddFightSkill (self, NPC_TALENT_BOW, 0);
+B_AddFightSkill (self, NPC_TALENT_1H, 0);
+B_AddFightSkill (self, NPC_TALENT_2H, 0);
+B_AddFightSkill (self, NPC_TALENT_CROSSBOW, 0);
+B_AddFightSkill (self, NPC_TALENT_MAGE, 0);
+
+// ------ TA anmelden ------
+daily_routine 	= Rtn_Start_0;
+};
+
+FUNC VOID Rtn_Start_0()
+{
+};
