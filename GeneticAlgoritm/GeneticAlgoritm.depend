@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1532826233 source:d:\ctutorials\geneticalgoritm\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<cstdio>
+	<conio.h>
+	<vector>
+	<fstream>
+
